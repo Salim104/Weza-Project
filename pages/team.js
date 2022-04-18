@@ -161,13 +161,12 @@ export const team = () => {
                 alt=""
               />
               <Card.Body>
-                <Card.Title>Yonelisa Gudana</Card.Title>
+                <Card.Title>Salim Shabani</Card.Title>
                 <Card.Text>
-                  <h6>Chief Finamcial Officer</h6>
+                  <h6>Frontend developer</h6>
                 </Card.Text>
                 <Card.Text>
-                  I have always been fascinated about creating awareness
-                  regarding GBV.
+                  We can choose to be affected by the world or we can choose to affect the world.
                   <br />
                   <br />
                 </Card.Text>
